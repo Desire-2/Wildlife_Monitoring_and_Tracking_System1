@@ -135,6 +135,13 @@
  .team-members {
      margin-bottom: 40px;
  }
+ #team img {
+     width: 200px;
+     height: 200px;
+     border-radius: 50%;
+     margin-bottom: 20px;
+     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+ }
 
  .team-members h3 {
      font-size: 24px;
