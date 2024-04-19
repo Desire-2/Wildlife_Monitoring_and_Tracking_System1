@@ -18,6 +18,8 @@
      background-color: #4CAF50;
      color: #fff;
      padding: 20px 0;
+     font-weight: bolder;
+     font-size: 22px;
  }
 
  .logo {
@@ -45,10 +47,10 @@
 
  /* Intro Section Styles */
  #intro {
-     background-image: url('intro-bg.jpg');
+     background-image: url('/images/Screenshot_2024-03-28_132445.png');
      background-size: cover;
      background-position: center;
-     color: #fff;
+     color: #05981b;
      text-align: center;
      padding: 100px 0;
  }
@@ -61,13 +63,16 @@
  #intro p {
      font-size: 20px;
      margin-bottom: 30px;
+        color: #2208e3;
+        font-weight: bold;
  }
 
  .btn {
      display: inline-block;
      padding: 10px 20px;
-     background-color: #fff;
-     color: #4CAF50;
+     background-color: #141301;
+     color: #fd09c8;
+     font-weight: bold;
      font-size: 18px;
      text-decoration: none;
      border-radius: 5px;
@@ -92,7 +97,7 @@
  }
 
  .feature img {
-     width: 300px;
+     width: 700px;
      height: auto;
      border-radius: 10px;
      margin: 0 auto 20px;
@@ -150,7 +155,8 @@
  .team-members ul li a {
      color: #4CAF50;
      text-decoration: none;
-     font-size: 18px;
+     font-size: 36px;
+     font-weight: bolder;
  }
 
  /* Contact Section Styles */
