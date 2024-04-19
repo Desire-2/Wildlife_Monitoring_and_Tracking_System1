@@ -47,7 +47,7 @@
 
  /* Intro Section Styles */
  #intro {
-     background-image: url('/images/Screenshot_2024-03-28_132445.png');
+     background-image: url('./images/Screenshot_2024-03-28_132445.png');
      background-size: cover;
      background-position: center;
      color: #05981b;
