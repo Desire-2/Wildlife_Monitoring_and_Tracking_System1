@@ -45,7 +45,7 @@
 
  /* Intro Section Styles */
  #intro {
-     background-image: url('intro-bg.jpg');
+     background-image: url('/images/intro-bg.jpg');
      background-size: cover;
      background-position: center;
      color: #fff;
